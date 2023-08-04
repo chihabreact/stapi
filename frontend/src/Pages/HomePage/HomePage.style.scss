@@ -1,0 +1,30 @@
+.review-card{
+    background-color: white;
+    margin: 60px auto;
+    padding: 1px 20px 20px 90px;
+    position: relative;
+    h2{
+       margin-bottom: 0; 
+    }
+    small{
+        margin-right: 10px;
+        color : #777;
+    }
+    .title{
+        
+        font-size: 2rem;
+        margin: 20px;
+        margin-left: 120px;
+    }
+    .rating {
+        position: absolute;
+        top:  -20px;
+        background-color: #8e2ad6;
+        font-size: 3rem;
+        width: 90px;
+        height: 90px;
+        text-align: center;
+        color: white;
+    }
+}
+
